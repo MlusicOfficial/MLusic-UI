@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo hello, world!
+npm install @blueprintjs/core
